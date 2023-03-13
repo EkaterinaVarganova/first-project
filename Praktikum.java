@@ -1,3 +1,5 @@
-public class Praktukum {
+public static void main {
+
+System.out.println("Hello");
 
 }
